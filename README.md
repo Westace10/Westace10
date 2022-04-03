@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I desgin UI and try some machine learning task.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulhakeem-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/akeem-ashaolu-43b457119)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulhakeem-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akeem-ashaolu-43b457119)
 
 ---
 
