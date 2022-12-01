@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
+### 📛 Badges :
 [![@westace10's Holopin board](https://holopin.me/westace10)](https://holopin.io/@westace10)
 
 ---
