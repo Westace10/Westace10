@@ -1,9 +1,12 @@
 <!-- Header -->
+
 <div id="header" align="center">
   <h1>
     👋 <span style="color: blue;">Hey there, I'm Akeem Ashaolu</span>!
   </h1>
 </div>
+
+[![@westace10's Holopin board](https://holopin.me/westace10)](https://holopin.io/@westace10)
 
 ---
 
@@ -54,12 +57,6 @@
 <!-- Github trophies -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=westace10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-<!-- Badges -->
-### 📛 Badges :
-[![@westace10's Holopin board](https://holopin.me/westace10)](https://holopin.io/@westace10)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=westace10&icon=0&color=0)](https://visitcount.itsvg.in)
